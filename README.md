@@ -1,3 +1,3 @@
 # P7-Test
 
-this is my edit. all charges must be committed
+this is my edit. all changes must be committed
